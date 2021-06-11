@@ -316,6 +316,10 @@
 |      Basic Join     | [African Cities](https://www.hackerrank.com/challenges/african-cities)                                                       |   10   | []()                                   |
 |      Basic Join     | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent)           |   10   | []()       |
 |      Basic Join     | [The Report](https://www.hackerrank.com/challenges/the-report)                                                               |   20   | []()                                    |
+|      Basic Join     | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem)                                                  |   30   | []()                                 |
+|      Basic Join     | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem)                               |   30   | []()                                   |
+|      Basic Join     | [Challenges](https://www.hackerrank.com/challenges/challenges/problem)                                                       |   30   | []()       |
+|      Basic Join     | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem)                                     |   30   | []()                                    |
 |     Aggregation     | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function) |   10   | []() |
 |     Aggregation     | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum)                  |   10   | []()   |
 |     Aggregation     | [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function)         |   10   | []()               |
@@ -332,3 +336,17 @@
 |     Aggregation     | [Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17)                       |   15   | []()                 |
 |     Aggregation     | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18)                       |   25   | []()                 |
 |     Aggregation     | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19)                       |   30   | []()               |
+|     Aggregation     | [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20)                       |   30   | []()                  |
+| Alternative Queries | [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem)                                     |   25   | [DrawTheTriangle1.sql]()                 |
+| Alternative Queries | [Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem)                                     |   25   | [DrawTheTriangle2.sql]()               |
+| Alternative Queries | [Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem)                                     |   40   | [PrintPrimeNumbers.sql]()                  |
+|   Advanced Select   | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem)                                      |   20   | [TypeOfTriangle.sql]()                |
+|   Advanced Select   | [The PADS](https://www.hackerrank.com/challenges/the-pads/problem)                                                           |   30   | [ThePads.sql]()               |
+|   Advanced Select   | [Occupations](https://www.hackerrank.com/challenges/occupations/problem)                                                     |   30   | [Occupations.sql]()              |
+|   Advanced Select   | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem)                                      |   30   | [BinaryTreeNodes.sql]()              |
+|   Advanced Select   | [New Companies](https://www.hackerrank.com/challenges/the-company/problem)                                                   |   30   | [NewCompanies.sql]()                 |
+|    Advanced Join    | [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/)                                                  |   40   | [SQLProjectPlanning.sql]()                 |
+|    Advanced Join    | [Placements](https://www.hackerrank.com/challenges/placements/problem)                                                       |   40   | [Placements.sql]()                 |
+|    Advanced Join    | [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem)                                             |   40   | [SymmetricPairs.sql]()                 |
+|    Advanced Join    | [Interviews](https://www.hackerrank.com/challenges/interviews/problem)                                                       |   50   | [Interviews.sql]()                 |
+|    Advanced Join    | [15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem)                             |   50   | [15DaysOfLearning.sql]()                 |
